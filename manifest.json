@@ -1,10 +1,10 @@
 {
 
-  "description": "Adds a page action to toggle applying CSS to pages.",
+  "description": "Adds an option to remove the header from Coursera pages.",
   "manifest_version": 2,
   "name": "apply-css",
   "version": "1.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/apply-css",
+  "homepage_url": "https://github.com/emumoo/remove-coursera-header",
 
   "background": {
     "scripts": ["background.js"]

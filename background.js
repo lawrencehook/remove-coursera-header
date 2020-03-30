@@ -1,4 +1,4 @@
-const CSS = ".rc-ItemHeader { display: none; }";
+const CSS = ".rc-ItemHeader { display: none; } .rc-ItemNavigation { top: 0; }";
 const TITLE_APPLY = "Apply CSS";
 const TITLE_REMOVE = "Remove CSS";
 const APPLICABLE_PROTOCOLS = ["http:", "https:"];
